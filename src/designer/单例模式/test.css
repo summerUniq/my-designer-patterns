@@ -1,0 +1,10 @@
+.model{
+    border:1px solid black;
+    position: fixed;
+    width:300px;
+    height:300px;
+    top:20%;
+    left:50%;
+    margin-left:-150px;
+    text-align: center;
+}
